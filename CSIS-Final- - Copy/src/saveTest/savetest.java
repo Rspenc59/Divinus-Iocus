@@ -1,6 +1,6 @@
 package saveTest;
 
-public class game 
+public class savetest
 {
 	public static void main(String[] args)
 	{
